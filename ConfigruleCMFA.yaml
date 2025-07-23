@@ -85,7 +85,7 @@ proxy-groups:
     url: http://www.gstatic.com/generate_204
     interval: 300
     proxies:
-      - AKUN1
+      - vvip-Akunvipv2
       - AKUN2
       - AKUN3
 
@@ -94,7 +94,7 @@ proxy-groups:
     url: http://www.gstatic.com/generate_204
     interval: 300
     proxies:
-      - AKUN1
+      - vvip-Akunvipv2
       - AKUN2
       - AKUN3
       
