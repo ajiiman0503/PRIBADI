@@ -41,12 +41,12 @@ proxies:
     cipher: auto
     tls: false
     skip-cert-verify: true
-    servername: id2-ray.ipservers.xyz
+    servername: sg2ray.jagoanvip.xyz
     network: ws
     ws-opts:
       path: /JAGOANSSH/
       headers:
-        Host: id2-ray.ipservers.xyz
+        Host: sg2ray.jagoanvip.xyz
     udp: true
   - name: AKUN2
     server: quiz.int.vidio.com
